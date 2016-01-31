@@ -23,10 +23,6 @@ $(function() {
       "<li> The summary for the next 7 days is: " + data.daily.summary
 
 
-
-
-
-
     // End of your code
 
     $('.weather-report').html(markup);
