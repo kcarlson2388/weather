@@ -16,7 +16,7 @@ $(function() {
     "<h3>3 Day Forecast</h3>" +
       "<li> Tomorrow's forecast is " + data.daily.data[1].summary + " The low is " + data.daily.data[1].apparentTemperatureMin + " degrees and the high is " + data.daily.data[1].apparentTemperatureMax + " degrees. " +
       "<li> The day after tommorow's forecast is for " + data.daily.data[2].summary + " The low is " + data.daily.data[2].apparentTemperatureMin + " degrees and the high is " + data.daily.data[2].apparentTemperatureMax + " degrees. " +
-      "<li> In three days from today, the forecast is  " + data.daily.data[3].summary + " The low is " + data.daily.data[3].apparentTemperatureMin + " degrees and the high is " + data.daily.data[3].apparentTemperatureMax + " degrees. " +
+      "<li> In 3 days from today, the forecast is  " + data.daily.data[3].summary + " The low is " + data.daily.data[3].apparentTemperatureMin + " degrees and the high is " + data.daily.data[3].apparentTemperatureMax + " degrees. " +
 
 
     "<h3> The Week Ahead</h3>" +
